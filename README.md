@@ -21,6 +21,7 @@ Using **MySQL** for database development and **Power BI** for visualization, the
 - Movies with **high IMDb ratings** often feature multi-talented celebrities.
 - Certain countries consistently produce celebrities with **higher net worth and impact.**
 - Body of work and contribution (songs and movies) are strongly linked to overall success.
+
 ![Overview](https://github.com/user-attachments/assets/5c69abf4-a562-4cc7-8ac2-6792e1d33808)
 ![Query](https://github.com/user-attachments/assets/5b7e4db3-7f9c-4a6f-84a4-c71ea597f645)
 
